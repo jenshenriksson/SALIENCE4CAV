@@ -9,3 +9,7 @@ https://pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 https://github.com/mbasilyan/Stop-Sign-Detection
+
+http://www.cvl.isy.liu.se/en/research/datasets/traffic-signs-dataset/download/
+
+https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset
